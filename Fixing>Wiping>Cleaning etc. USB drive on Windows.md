@@ -1,7 +1,7 @@
 ## Open a Command Prompt(Terminal).
- ** { Windows key + X, then select it from the menu. }
+ **{ Windows key + X, then select it from the menu. }**
 ## OR
-  ** { Windows key + R, then type in CMD & press Enter. } **
+  **{ Windows key + R, then type in CMD & press Enter. }**
 
 ## Type diskpart and press Enter.
 
