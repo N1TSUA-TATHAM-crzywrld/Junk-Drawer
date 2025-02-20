@@ -1,4 +1,6 @@
 # 🛠️ Fixing, Wiping, and Cleaning a USB Drive on Windows
+ > [!NOTE]
+ > For situations where a USB drive isn't visible in File Explorer or appears unmounted despite being connected.
 
 Follow these steps to clean and prepare your USB drive using the Command Prompt:
 
